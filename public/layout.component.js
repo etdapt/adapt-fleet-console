@@ -9,7 +9,7 @@ const template = `
         }
         .headers {
           height: 42px;
-          background: #3f51b5;
+          background: black;
           color: white;
           white-space: nowrap;
         }

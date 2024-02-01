@@ -35,7 +35,7 @@ export class TransistorSoftCustomMarkers extends HTMLElement {
 
     #add {
       width: 100%;
-      background: #3f51b5;
+      background: #5c5c5c;
       height: 40px;
       border: none;
       border-radius: 5px;

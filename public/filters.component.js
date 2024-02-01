@@ -102,7 +102,7 @@ export class TransistorSoftFilters extends HTMLElement {
 
     #reload {
        width: 100%;
-       background: #3f51b5;
+       background: #5c5c5c;
        height: 40px;
        border: none;
        border-radius: 5px;
@@ -181,7 +181,7 @@ export class TransistorSoftFilters extends HTMLElement {
     }
 
     .switch-input:checked + .switch-label::before {
-      background-color: #3f51b5;
+      background-color: #5c5c5c;
     }
 
     .switch-input:checked + .switch-label::after {

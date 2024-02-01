@@ -36,7 +36,7 @@ export class TransistorSoftLogin extends HTMLElement {
     .modal-buttons button {
       width: 100%;
       height: 30px;
-      background: #3f51b5;
+      background: #5c5c5c;
       color: white;
       border: none;
       border-radius: 3px;

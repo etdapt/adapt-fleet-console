@@ -292,7 +292,7 @@ export class TransistorSoftDashboard extends HTMLElement {
       top: 0;
     }
     #center-header {
-      background: #303f9f;
+      background: #5C5C5C;
       color: white;
       height: 60px;
       display: flex;
@@ -337,7 +337,7 @@ export class TransistorSoftDashboard extends HTMLElement {
       left: 0;
       margin: 0;
       height: 60px;
-      background: #303f9f;
+      background: #5C5C5C;
       color: white;
       text-align: center;
     }
@@ -401,7 +401,7 @@ export class TransistorSoftDashboard extends HTMLElement {
     <div id="center-header">
       <span class="expand-button" style="visibility: hidden;"><span>≡</span></span>
       <h2>Background Geolocation Console</h2>
-      <a href="https://www.transistorsoft.com" target="_blank"><img src="./images/transistor-logo.svg"></a>
+      <!-- a href="https://www.transistorsoft.com" target="_blank"><img src="./images/transistor-logo.svg"></a -->
     </div>
     <transistorsoft-layout>
       <transistorsoft-map slot="map"></transistorsoft-map>
