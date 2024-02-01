@@ -125,3 +125,14 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# location sqlite database
+src/server/database/db/*.db
+
+
+.DS_Store
+.next/
+build/
+changes.diff
+backup.backup
+src/server/firebase/serviceAccount.json
