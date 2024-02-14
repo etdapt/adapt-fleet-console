@@ -400,8 +400,7 @@ export class TransistorSoftDashboard extends HTMLElement {
   <div id="center">
     <div id="center-header">
       <span class="expand-button" style="visibility: hidden;"><span>≡</span></span>
-      <h2>Background Geolocation Console</h2>
-      <!-- a href="https://www.transistorsoft.com" target="_blank"><img src="./images/transistor-logo.svg"></a -->
+      <h2>ADAPT Fleet Debug Console</h2>
     </div>
     <transistorsoft-layout>
       <transistorsoft-map slot="map"></transistorsoft-map>
